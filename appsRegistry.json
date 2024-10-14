@@ -1,6 +1,7 @@
 [
     {
-        "name": "SendEmailApp",
+        "name": "MissingWorklogs",
+        "description": "Find missing worklogs for a user",
         "version": "1.0.0",
         "github": "https://github.com/AAstrup/AIDesktop-Apps",
         "downloads": "https://github.com/AAstrup/AIDesktop-Apps/releases/tag/App-MissingWorklogs"
