@@ -5,5 +5,12 @@
         "version": "1.0.0",
         "github": "https://github.com/AAstrup/AIDesktop-Apps",
         "zipDownload": "https://github.com/AAstrup/AIDesktop-Apps/releases/download/App-MissingWorklogs/MissingWorklogs.zip"
+    },
+    {
+        "name": "FakeAppSendMail",
+        "description": "Pretends to send mails",
+        "version": "1.0.0",
+        "github": "https://github.com/AAstrup/AIDesktop-Apps",
+        "zipDownload": "https://github.com/AAstrup/AIDesktop-Apps/releases/download/App-FakeAppSendMail/FakeAppSendMail.zip"
     }
 ]
